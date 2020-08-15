@@ -1,6 +1,6 @@
 ### Hi there, I'm Ishan Avishka - from [Fiesco Labs][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
+[![Website](https://img.shields.io/website?label=feiscolabs.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
 
 ## I'm a Undergraduate, Developer, and Tech Enthusiast!
 
