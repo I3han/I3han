@@ -1,4 +1,4 @@
-### Hi there, I'm ISHAN AVISHKA  👋
+### Hi there, I'm ISHAN AVISHKA  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
 
 ## I'm a Undergraduate, Developer, and Tech Enthusiast!
 
@@ -11,7 +11,7 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [<img align="left" alt="i3han.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="i3han | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
