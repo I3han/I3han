@@ -1,10 +1,8 @@
-### Hi there, I'm ISHAN AVISHKA - from [Fiesco Labs][website] 👋
-
-[![Website](https://img.shields.io/website?label=feiscolabs.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)][website]
+### Hi there, I'm ISHAN AVISHKA  👋
 
 ## I'm a Undergraduate, Developer, and Tech Enthusiast!
 
-- 🔭 I’m currently working on a [Fiesco Labs][website]!
+- 🔭 I’m currently working as a Contributor
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
