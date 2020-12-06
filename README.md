@@ -21,8 +21,6 @@
 
 <br />
 
-[![I3han's github stats](https://github-readme-stats.vercel.app/api?username=I3han)](https://github.com/I3han/github-readme-stats)
-
 ### Languages and Tools:
 
 [<code>
@@ -122,6 +120,13 @@
 ➡️ [more blog posts...](https://medium.com/@ishanavishka14)
 
 ---
+
+
+<a href="https://github-readme-stats.I3han.vercel.app/api?username=I3han&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="I3han's Github Stats" src="https://github-readme-stats.I3han.vercel.app/api?username=I3han&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github-readme-stats.I3han.vercel.app/api/top-langs/?username=I3han&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.I3han.vercel.app/api/top-langs/?username=I3han&layout=compact&theme=radical" />
+</a>
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
