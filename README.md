@@ -21,6 +21,8 @@
 
 <br />
 
+[![I3han's github stats](https://github-readme-stats.vercel.app/api?username=I3han)](https://github.com/I3han/github-readme-stats)
+
 ### Languages and Tools:
 
 [<code>
