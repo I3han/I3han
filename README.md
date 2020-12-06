@@ -97,9 +97,6 @@
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
 
-<br />
-<br />
-
 ---
 
 ### 📺 Latest YouTube Videos
