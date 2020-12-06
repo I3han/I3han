@@ -122,10 +122,10 @@
 ---
 
 
-<a href="https://github-readme-stats.I3han.vercel.app/api?username=i3han&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="I3han's Github Stats" src="https://github-readme-stats.i3han.vercel.app/api?username=i3han&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.i3han.vercel.app/api/top-langs/?username=i3han&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.i3han.vercel.app/api/top-langs/?username=i3han&layout=compact&theme=radical" />
+<a href="https://github-readme-stats.I3han.vercel.app/api?username=I3han&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="I3han's Github Stats" src="https://github-readme-stats.I3han.vercel.app/api?username=I3han&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github-readme-stats.I3han.vercel.app/api/top-langs/?username=I3han&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.I3han.vercel.app/api/top-langs/?username=I3han&layout=compact&theme=radical" />
 </a>
 
 <details>
