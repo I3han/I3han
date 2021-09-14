@@ -129,6 +129,17 @@
 
 </details>
 
+---
+
+
+
+ ### 🐱‍💻 GitHub Stats
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I3han)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=I3han.I3han)
+
 
 [website]: http://fiescolabs.digital/
 [twitter]: https://twitter.com/ishan_avishka
