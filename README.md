@@ -1,4 +1,4 @@
-### Hi there, I'm ISHAN AVISHKA  <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+### Hi there, I'm ISHAN AVISHKA <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Undergraduate, Developer, and Tech Enthusiast!
 
