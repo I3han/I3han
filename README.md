@@ -101,8 +101,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Start a project with Angular from sinhala!](https://www.youtube.com/watch?v=WoPO-NDjU2o&t)
-- [Angular Tutorial: How to Communicate between Components](https://www.youtube.com/watch?v=nXRk4rqFok0)
+- [React Tutorial Series](https://www.youtube.com/playlist?list=PLM_OaslyK5le2Pa7w1Cyxvu_35bn-_7tB)
+- [Angular Tutorial Series](https://www.youtube.com/playlist?list=PLM_OaslyK5lfCmO2zcpGuSE9Pbby8F1-2)
 - [How to get started with Vaadin 14.1 with maven](https://www.youtube.com/watch?v=0M8l0eJreus)
 <!-- YOUTUBE:END -->
 
@@ -114,6 +114,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Important facts you need to know before creating a Mobile app](https://medium.com/@ishanavishka14/important-facts-you-need-to-know-before-creating-a-mobile-app-d319cb5ae08e)
+- [Things You need to know before create a server](https://ishanavishka14.medium.com/things-you-need-to-know-before-creating-a-server-73d9370727c4)
+- [Best Trending similar Alternatives for JavaScript and its uses](https://ishanavishka14.medium.com/best-trending-and-similar-alternatives-for-javascript-and-its-uses-c63d69c85d53)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@ishanavishka14)
