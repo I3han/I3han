@@ -16,11 +16,9 @@
 [<img align="left" alt="i3han | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="i3han | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br /><br />
 
 ![Alt Text](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)
-
-<br />
 
 ### Languages and Tools:
 
