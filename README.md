@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies and tv series
 
-![Alt Text](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)
-
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 [<img align="left" alt="i3han.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,6 +15,10 @@
 [<img align="left" alt="i3han | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="i3han | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="i3han | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+![Alt Text](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)
 
 <br />
 
